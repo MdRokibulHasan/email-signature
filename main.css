@@ -1,0 +1,82 @@
+
+
+.logo img{
+    width: 70%;
+    height: 100%;
+    
+}
+.contant{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+   
+}
+.contant h1{
+    color: #066bab  ;
+}
+
+.info-link .phone {
+    margin: 10px;
+}
+.telephone{
+    margin: 10px;
+}
+.gobal{
+    margin: 10px;
+}
+.linkedin{
+    margin: 10px;
+}
+.bg-color{
+    background-color: #F2F7FB;
+    min-height: 290px;
+    
+}
+.bg-color-height{
+    
+    min-height: 290px;
+}
+
+/* icon bg style */
+.icon-bg{
+    font-size: 20px;
+    color: white;
+    background-color: #066bab;
+    margin-right: 10px;
+    padding: 5px 8px;
+    border-radius: 50%;
+}
+h5{
+    margin-bottom: 20px;
+}
+.info-link{
+    padding-left: 25px;
+    border-left: 3px solid;
+    border-image: linear-gradient(to top, #a7d3ee4b, #066bab,#a7d3ee4b);
+    border-image-slice: 1;
+}
+.gobal a{
+    text-decoration: none;
+    color: black;
+    font-size: 22px;
+    margin-bottom: 20px;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-weight: 470;
+    line-height: 1.2;
+}
+.linkedin a{
+    text-decoration: none;
+    color: black;
+    font-size: 22px;
+    margin-bottom: 20px;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-weight: 470;
+    line-height: 1.2;
+}
+.linkedin i{
+    margin-top: 10px;
+}
